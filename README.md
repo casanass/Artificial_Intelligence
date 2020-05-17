@@ -1,2 +1,2 @@
 # Artificial_Intelligence
-人工智能
+Generation_Algorithm in finding Maximum value of function
